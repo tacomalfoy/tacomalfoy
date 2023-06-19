@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tacomalfoy
 - 👀 I’m interested in Videogames 🎮, Computer science 💻 and food 🍕 
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me @Draugar1 on Instagram!
 
 <!---
